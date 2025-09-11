@@ -1,6 +1,9 @@
 <article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">SSR-V2ray-Trojan机场推荐</h1><a id="user-content-ssr-v2ray-trojan机场推荐" class="anchor" aria-label="Permalink: SSR-V2ray-Trojan机场推荐" href="#ssr-v2ray-trojan机场推荐"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p dir="auto">机场推荐与机场评测</p>
 <p dir="auto">机场推荐看良心，下面推荐一些值得推荐的机场，也是 TG 里面常被推荐的机场。有贵的也有便宜的机场，都可以在 clash 上使用。我 TG 频道主要是做机场评测，写成博客方便记录。觉得好的可以 star，日常保持更新。</p>
+<p der="auto"> 附一个不翻墙可以沟通的地方 </p>
+<img width="200" height="200" alt="VPNQQ交流群" src="https://github.com/user-attachments/assets/5aa7b76b-7e0e-41a8-893d-fab7f2d6cb18" />
+
 <p dir="auto">本人Telegram电报频道：<a href="https://t.me/vpnxiaofeixiang" rel="nofollow">科学上网观察与机场测速TG频道</a>：最新机场推荐与机场评测，掌握最新机场优惠折扣通知，最新科学上网相关新闻与消息，各种想法等，欢迎关注。</p>
 <ol dir="auto">
 <li>
