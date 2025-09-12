@@ -2,7 +2,7 @@
 <p dir="auto">机场推荐与机场评测</p>
 <p dir="auto">机场推荐看良心，下面推荐一些值得推荐的机场，也是 TG 里面常被推荐的机场。有贵的也有便宜的机场，都可以在 clash 上使用。我 TG 频道主要是做机场评测，写成博客方便记录。觉得好的可以 star，日常保持更新。</p>
 <p der="auto"> 附一个不翻墙可以沟通的地方 </p>
-<img width="350" height="250" alt="QQ群" src="https://github.com/user-attachments/assets/340152f8-456e-4ee7-9e35-877c8e14de1b" />
+<img width="250" height="350" alt="QQ群" src="https://github.com/user-attachments/assets/340152f8-456e-4ee7-9e35-877c8e14de1b" />
 <p dir="auto">本人Telegram电报频道：<a href="https://t.me/vpnxiaofeixiang" rel="nofollow">科学上网观察与机场测速TG频道</a>：最新机场推荐与机场评测，掌握最新机场优惠折扣通知，最新科学上网相关新闻与消息，各种想法等，欢迎关注。</p>
 <ol dir="auto">
 <li>
